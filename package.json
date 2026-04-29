@@ -1,0 +1,7 @@
+{
+  "name": "cf-xhttp-relay",
+  "version": "1.0.0",
+  "description": "XHTTP relay for Xray/V2Ray on Cloudflare Workers",
+  "private": true,
+  "license": "MIT"
+}
